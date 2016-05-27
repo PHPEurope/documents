@@ -47,94 +47,106 @@ Membership terminates
  * on death
  * on exclusion
 
-withdrawal needs to be declared to the board in written form. Withdrawal is subject to a term of 3 Months to the end of the year.
+withdrawal needs to be declared to the board in written form. Withdrawal is
+subject to a term of 3 Months to the end of the year.
 
-Exclusion is only possible on unanimously decission of the board. Against that decission of the board an appeal can be filed on the main ?? 
+Exclusion is only possible on unanimously decission of the board. Against that
+decission of the board an appeal can be filed on the general meeting
 
-Der Ausschluß ist nur durch einstimmigen Beschluß des Vorstandes möglich. Gegen den Beschluß des Vorstandes kann bei der Hauptversammlung Berufung eingelegt werden, die mit 3/4 Mehrheit über den Ausschluß entscheidet.
+## Membership-fees
 
-## Mitgliedsbeiträge
+The members will pay a regular due. The amount of that due is defined by the
+general meeting. Dues are due at the last day of march of a year. All dues are
+defined in a separate contribution rule.
 
-Von den Mitgliedern werden regelmäßige Beiträge erhoben. Die Höhe der Beiträge wird von der Hauptversammlung bestimmt. Die Beiträge werden jährlich am 31.03. fällig. Sämtliche Beitragskosten sind in einer Beitragsordnung zusammen zu fassen.
+## The managing board
 
-## Der Vorstand
+The managing board is made up of:
 
-Der Vorstand besteht aus:
+the president
+the vice-president
+the cash-manager
 
-der/dem Vorsitzenden
-der/dem stellvertretenden Vorsitzenden
-der/dem Kassenführer(in)
+The managing board is elected for two years. The managing board will stay in
+office until a regulatory election
 
-Der Vorstand wird auf zwei Jahre gewählt. Wiederwahl ist zulässig. Der Vorstand bleibt bis zur ordnungsgemäßen Neuwahl im Amt.
+Board-membership is an honorary post.
 
-Die Vereinsämter sind Ehrenämter.
+The association is represented in and outside court by the president or the
+vice-president, and a further member of the managing board.
 
-Der Verein wird gerichtlich und außergerichtlich durch die/den Vorsitzenden oder die/den stellvertretenden Vorsitzenden, sowie durch ein weiteres Mitglied des geschäftsführenden Vorstand gemeinsam vertreten.
+## Responsibilities of the managing board
 
-## Die Zuständigkeit des Vorstandes
+The managing board is responsible for all affairs of the association, as long as
+the bylaws don't assign them to a different organ of the association. The
+reponsibilities include upon others:
 
-Der Vorstand ist für alle Angelegenheiten des Vereins zuständig, soweit sie nicht durch die Satzung einem anderen Vereinsorgan zugewiesen sind. Er hat vor allem folgende Aufgaben:
-
- * Vorbereitung der Hauptversammlungen und Aufstellung der Tagesordnungen
- * Einberufung der Hauptversammlung
- * Ausführen der Beschlüsse der Hauptversammlung
- * Aufstellung eines Haushaltsplanes für jedes Geschäftsjahr, Buchführung, Erstellung eines Jahresberichts
- * Abschluß und Kündigung von Arbeitsverträgen
- * Beschlußfassung über Aufnahme, Streichung und Ausschluß von Mitgliedern
+ * Organising the general meeting and seting up the agenda
+ * Calling the general meeting
+ * Execution of the decissions of the general meeting
+ * Preparing a budget for the financial year, accounting, creting the annual report
+ * Conclusion and termination of contracts
+ * decission over membership applications and removal of members
  
-## Hauptversammlung
+## General Meeting
 
-Mindestens einmal im Jahr muß eine ordentliche Hauptversammlung stattfinden. Sie wird vom Vorstand unter Einhaltung einer Frist von vier Wochen schriftlich unter Angabe der Tagesordnung einberufen. Anträge zur Hauptversammlung sind spätestens 2 Wochen vor dem Versammlungstermin beim Vorstand einzureichen. Später eingegangene Anträge werden nur angenommen, wenn die Hauptversammlung mit einer 2/3 Mehrheit zustimmt.
-Die Hauptversammlung ist zuständig für folgende Angelegenheiten:
+There has to be a general meeting at least once a year. It is to be called four
+weeks in advance in written form with an agenda. Proposals to the general meeting
+have to be filed with the managing board two weeks before the general meeting.
 
- * Entgegennahme des Jahresberichts des Vorstandes
- * Entlastung des Vorstands
- * Wahl und Abberufung der Mitglieder des Vorstandes, der Kassenprüfer und weiterer Ehrenämter
- * Bestimmung der Anzahl der Kassenprüfer und Festlegung der Kassenprüfungsmodalitäten
- * Änderung der Satzung
- * Auflösung des Vereins
- * Ernennung von Ehrenmitgliedern
- * Erlass von Ordnungen
- * Beschlussfassung über Anträge der Mitglieder
- * Bestimmung der Höhe des Mitgliedsbeitrags
+The general meeting is responsible for the following:
 
-In der Hauptversammlung hat jedes anwesende, volljährige Mitglied eine Stimme.
+ * Receiving the anual report of the management board
+ * approval of the management board
+ * election and withdrawal of the members of the managing board, cash auditors and further honorary posts
+ * election of the number of cash auditors
+ * amendment of the bylaws
+ * liquidation or annulment of the association
+ * nomination of honorary members
+ * passing of further bylaws
+ * resolution of proposals of members
+ * determination of the membership-fees
 
-Die Hauptversammlung wird vom Vorsitzenden, bei dessen Verhinderung vom stellvertretenden Vorsitzenden geleitet.
+In the general meeting every present member of age has one vote.
 
-Die ordnungsgemäß einberufende Hauptversammlung ist unabhängig von der Anzahl der erschienenen Mitglieder beschlußfähig.
+The general meeting is led by the president or the vice-president.
 
-Die Beschlußfassung erfolgt durch einfache Stimmenmehrheit. Über die Beschlüsse ist eine Niederschrift zu fertigen, die vom Versammlungsleiter zu unterschreiben ist. 
+The in due form called general meeting is quorate irrespective of the number of present members.
 
-Die Tagesordnung muss folgende Punkte enthalten:
+Passing of a resolution occurs by simple majority. The resolutions are written
+down and signed by the president od the vice-president.
 
- * Geschäftsbericht des Vorstandes
- * Kassenbericht
- * Bericht der Kassenprüfer
- * Entlastung des Vorstandes
- * ggf. Neuwahlen
- * Genehmigung des Haushaltsplanes
- * Anträge
+The agenda has to contain these points:
 
-Die Hauptversammlung ist nicht öffentlich. Gäste können zugelassen werden.
+ * annual report of the managing board
+ * cash report
+ * report of the cash auditor
+ * approval of the managing board
+ * elections if necessary
+ * approval of the budget for the financial year
+ * proposals
 
-Das Protokoll der Hauptversammlung wird den Mitgliedern zugestellt und auf der Homepage des Vereins zur Einsicht bereitgestellt.
+The general meeting is not public. Guest can be admitted.
 
-## Das Geschäftsjahr
+The protocol of the general meeting will be send to the members and will be
+publicly available on the homepage of the association.
 
-Das Geschäftsjahr ist das Kalenderjahr.
+## The financial year
 
-## Inkrafttreten der Satzung
+The financial year is the legal year
 
-Die vorliegende Satzung ist in der Hauptversammlung von den erschienenen Mitgliedern in der vorliegenden Fassung beschlossen worden und tritt am gleichen Tag in Kraft.
+## legal validity
 
-## Vereinsregister
+This bylaw has been approved by the present members of the general meeting. It
+is in force at the day of approval
 
-Der Verein soll in das Vereinsregister eingetragen werden.
+## Register of associations
 
-??, den ?? 
+The association is to be added to the register of associations
 
-Für die Richtigkeit unterzeichneten: 
+[Location], the [Date]
 
-?? 
+Confirming the correctness:
+
+[Signatures]
  
